@@ -1,0 +1,89 @@
+--------------BÀI 1-----------
+/**
+ * Khối 1: Input
+ * salary1Day
+ *workDays
+ * 
+ * Khối 2: Các bước xử lý
+ * B1: Tạo và gán giá trị
+ * B2: salary =  salary1Day*workDays
+ * 
+ * Khối 3: Output
+ * 
+ * totalSalary
+ * 
+ */
+
+--------------BÀI 2-----------
+
+/**
+ * Khối 1: Input
+ * num1
+ * num2
+ * num3
+ * num4
+ * num5
+ * 
+ * Khối 2: Các bước xử lý
+ * B1: Tạo và gán giá trị
+ * B2: tbc = (num1+num2+num3+num4+num5) / 5
+ * 
+ * Khối 3: Output
+ * 
+ * tbc
+ * 
+ */
+
+--------------BÀI 3-----------
+/**
+ * Khối 1: Input
+ * value1USD
+ * quantity
+ * 
+ * Khối 2: Các bước xử lý
+ * B1: Tạo và gán giá trị
+ * B2: totalValue = value1USD * quantity 
+ * 
+ * Khối 3: Output
+ * 
+ * totalValue
+ * 
+ */
+
+
+--------------BÀI 4-----------
+/**
+ * Khối 1: Input
+ * chieuDai
+ * chieuRong
+ * 
+ * Khối 2: Các bước xử lý
+ * B1: Tạo và gán giá trị
+ * B2: chuVi = ( chieuDai + chieuRong ) * 2
+ *  dienTich =   chieuDai * chieuRong 
+ * 
+ * Khối 3: Output
+ * 
+ * chuVi
+ * Diện tích
+ * 
+ */
+
+--------------BÀI 5-----------
+
+/**
+ * Khối 1: Input
+ * number
+ *
+ * 
+ * Khối 2: Các bước xử lý
+ * B1: Tạo và gán giá trị: number, chuc, donVi
+ * B2: 
+ * lấy số hàng chục: chuc = Math.floor(number/10);
+ * lấy số đơn vị: donVi =  (number%10);
+ * 
+ * Khối 3: Output
+ * 
+ * sum
+ * 
+ */
