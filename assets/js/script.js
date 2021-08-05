@@ -20,7 +20,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
     //   console.log(p_tag);
 
     console.log(show_result_p_Tags[index]);
-    p_tag = show_result_p_Tags[index];
+    var p_tag = show_result_p_Tags[index];
       console.log(index);
       if(index === 0) {
         result = handleBT1(index);
